@@ -1,0 +1,80 @@
+------------------------- 
+运行时间：2025-07-05 11:13:48
+参与方数量：5
+全集大小：1024
+运行前的准备阶段用时：3852722微秒
+-------------------------
+运行时间：2025-07-06 17:59:17
+参与方数量：5
+全集大小：256
+setup_phase 用时: 0 微秒
+leader_preproc 用时: 7009 微秒
+ctrl_DB_2_2_preproc 用时: 4307 微秒
+ctrl_DB_0_0_preproc 用时: 9925 微秒
+ctrl_DB_0_1_preproc 用时: 9616 微秒
+ctrl_DB_2_1_preproc 用时: 4719 微秒
+ctrl_DB_3_1_preproc 用时: 4800 微秒
+ctrl_DB_3_3_preproc 用时: 5047 微秒
+ctrl_DB_3_2_preproc 用时: 5201 微秒
+ctrl_DB_1_3_preproc 用时: 6647 微秒
+ctrl_DB_3_0_preproc 用时: 6325 微秒
+ctrl_DB_2_0_preproc 用时: 6766 微秒
+tgt_DB_2_2_preproc 用时: 2925 微秒
+tgt_DB_2_1_preproc 用时: 3049 微秒
+tgt_DB_0_1_preproc 用时: 3454 微秒
+tgt_DB_0_0_preproc 用时: 4925 微秒
+ctrl_DB_2_3_preproc 用时: 9359 微秒
+tgt_DB_3_1_preproc 用时: 4693 微秒
+tgt_DB_3_2_preproc 用时: 4872 微秒
+ctrl_DB_1_2_preproc 用时: 11872 微秒
+tgt_DB_2_0_preproc 用时: 5120 微秒
+tgt_DB_3_0_preproc 用时: 5528 微秒
+tgt_DB_1_3_preproc 用时: 5602 微秒
+tgt_DB_3_3_preproc 用时: 7714 微秒
+ctrl_DB_1_1_preproc 用时: 15000 微秒
+ctrl_DB_0_2_preproc 用时: 18578 微秒
+tgt_DB_2_3_preproc 用时: 5488 微秒
+tgt_DB_1_2_preproc 用时: 3512 微秒
+ctrl_DB_0_3_preproc 用时: 19930 微秒
+ctrl_DB_1_0_preproc 用时: 18667 微秒
+tgt_DB_0_2_preproc 用时: 1705 微秒
+tgt_DB_1_1_preproc 用时: 2076 微秒
+tgt_DB_1_0_preproc 用时: 1292 微秒
+tgt_DB_0_3_preproc 用时: 1335 微秒
+query_phase 用时: 2078 微秒
+dispatch_query 用时: 1786 微秒
+randomness_gen 用时: 155 微秒
+ctrl_DB_0_0_reply 用时: 755 微秒
+tgt_DB_0_0_reply 用时: 617 微秒
+ctrl_DB_0_1_reply 用时: 39 微秒
+tgt_DB_0_1_reply 用时: 54 微秒
+ctrl_DB_0_2_reply 用时: 1199 微秒
+tgt_DB_0_2_reply 用时: 26 微秒
+ctrl_DB_0_3_reply 用时: 647 微秒
+tgt_DB_0_3_reply 用时: 71 微秒
+ctrl_DB_1_0_reply 用时: 78 微秒
+ctrl_DB_1_1_reply 用时: 354 微秒
+tgt_DB_1_0_reply 用时: 350 微秒
+tgt_DB_1_1_reply 用时: 669 微秒
+ctrl_DB_1_2_reply 用时: 418 微秒
+tgt_DB_1_2_reply 用时: 25 微秒
+ctrl_DB_1_3_reply 用时: 22 微秒
+tgt_DB_1_3_reply 用时: 16 微秒
+ctrl_DB_2_0_reply 用时: 373 微秒
+tgt_DB_2_0_reply 用时: 486 微秒
+ctrl_DB_2_1_reply 用时: 39 微秒
+tgt_DB_2_1_reply 用时: 372 微秒
+ctrl_DB_2_2_reply 用时: 909 微秒
+tgt_DB_2_2_reply 用时: 28 微秒
+ctrl_DB_2_3_reply 用时: 358 微秒
+tgt_DB_2_3_reply 用时: 509 微秒
+ctrl_DB_3_0_reply 用时: 24 微秒
+tgt_DB_3_0_reply 用时: 17 微秒
+ctrl_DB_3_1_reply 用时: 57 微秒
+tgt_DB_3_1_reply 用时: 1185 微秒
+ctrl_DB_3_2_reply 用时: 1049 微秒
+tgt_DB_3_2_reply 用时: 41 微秒
+ctrl_DB_3_3_reply 用时: 35 微秒
+tgt_DB_3_3_reply 用时: 548 微秒
+compute_intersection 用时: 81232062 微秒
+交集大小: 0

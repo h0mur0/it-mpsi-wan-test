@@ -1,0 +1,11 @@
+g++ -O3 -g main.cpp public_function.cpp channel.cpp client.cpp database.cpp leader.cpp -o pbc_simulator 
+.\main.exe -m 5 -t data1.txt data2.txt data3.txt data4.txt data5.txt -n 5 5 5 5 5 -K 256 
+
+./app -m 5 -t data1.txt data2.txt data3.txt data4.txt data5.txt -n 5 5 5 5 5  
+
+
+./pbc_simulator -m 5 -t data1.txt data2.txt data3.txt data4.txt data5.txt -n 5 5 5 5 5 -K 256
+
+g++ -O3 -pthread -std=C++17 -g main.cpp public_function.cpp channel.cpp client.cpp database.cpp leader.cpp -o pbc_simulator 
+
+g++ -O3 -g -std=c++17 -pthread main.cpp public_function.cpp channel.cpp client.cpp database.cpp leader.cpp -o pbc_simulator
